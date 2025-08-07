@@ -1,6 +1,6 @@
 ## Coba aja dulu, jago belakangan!👀
 
-###
+<!-- ###
 
 <br clear="both">
 <div align="center">
@@ -9,7 +9,7 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="20" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
@@ -25,9 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
-</div>
+</div> -->
 
-###
+<!-- ###
 
 
 <br clear="both">
