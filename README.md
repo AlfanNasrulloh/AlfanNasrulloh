@@ -1,4 +1,4 @@
-## Coba aja dulu, jago belakangan!👀
+## Let's Try!👀
 
 ###
 
